@@ -1,6 +1,6 @@
 # Musical Instruments on the Web
 
-[ written by AI ]
+[ README written by AI ]
 
 A workshop-ready sandbox for creating web-based musical instruments using the Web Audio API. This project provides examples, templates, and a modular architecture for building interactive audio experiences in the browser.
 
